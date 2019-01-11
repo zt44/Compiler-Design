@@ -1,0 +1,5 @@
+g++ -g -O0 -Wall -Wextra -std=gnu++14 main.o string_set.o auxlib.o lyutils.o astree.o \
+yyparse.o yylex.o -o oc
+string_set.o: file not recognized: File format not recognized
+collect2: error: ld returned 1 exit status
+gmake: *** [oc] Error 1

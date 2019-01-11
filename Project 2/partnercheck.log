@@ -1,0 +1,8 @@
+partnercheck: ./PARTNER: format OK:
+username = tzeid
+passwd   = *
+uid      = 222043
+gid      = 100
+gecos    = Tarik Zeid
+home     = /afs/cats.ucsc.edu/users/w/tzeid
+shell    = /bin/bash

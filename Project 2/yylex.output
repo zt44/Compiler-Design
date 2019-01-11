@@ -1,0 +1,24 @@
+scanner.l:87: warning, rule cannot be matched
+scanner.l:89: warning, rule cannot be matched
+flex version 2.5.37 usage statistics:
+  scanner options: -dsvI8 -Cem -oyylex.cpp
+  296/2000 NFA states
+  96/1000 DFA states (542 words)
+  49 rules
+  Compressed tables always back-up
+  1/40 start conditions
+  171 epsilon states, 75 double epsilon states
+  24/100 character classes needed 265/500 words of storage, 0 reused
+  1532 state/nextstate pairs created
+  240/1292 unique/duplicate transitions
+  104/1000 base-def entries created
+  182/2000 (peak 412) nxt-chk entries created
+  32/2500 (peak 368) template nxt-chk entries created
+  0 empty table entries
+  8 protos created
+  8 templates created, 60 uses
+  46/256 equivalence classes created
+  4/256 meta-equivalence classes created
+  0 (1 saved) hash collisions, 147 DFAs equal
+  0 sets of reallocations needed
+  874 total table entries needed
